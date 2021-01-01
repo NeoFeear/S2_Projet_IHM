@@ -1,0 +1,52 @@
+object f_indispo: Tf_indispo
+  Left = 794
+  Height = 720
+  Top = 459
+  Width = 920
+  Caption = 'f_indispo'
+  ClientHeight = 720
+  ClientWidth = 920
+  LCLVersion = '1.6.0.4'
+  object pnl_tout: TPanel
+    Left = 0
+    Height = 720
+    Top = 0
+    Width = 920
+    Align = alClient
+    ClientHeight = 720
+    ClientWidth = 920
+    TabOrder = 0
+    object lbl_indispo1: TLabel
+      Left = 128
+      Height = 111
+      Top = 184
+      Width = 625
+      Caption = 'PAS ENCORE'
+      Font.CharSet = ANSI_CHARSET
+      Font.Color = clRed
+      Font.Height = -96
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object lbl_indispo2: TLabel
+      Left = 152
+      Height = 111
+      Top = 432
+      Width = 587
+      Caption = 'DISPONIBLE'
+      Font.CharSet = ANSI_CHARSET
+      Font.Color = clRed
+      Font.Height = -96
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+end

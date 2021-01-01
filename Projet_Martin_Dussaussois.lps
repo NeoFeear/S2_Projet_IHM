@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="22">
+      <Unit0>
+        <Filename Value="Projet_Martin_Dussaussois.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="67" Y="12"/>
+        <UsageCount Value="119"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_projet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_projet"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="37"/>
+        <CursorPos X="31" Y="98"/>
+        <UsageCount Value="119"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_feuille_style.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="119"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_select_etudiant.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_select_etudiant"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="62"/>
+        <CursorPos X="6" Y="104"/>
+        <UsageCount Value="94"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_list_etudiant.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_list_etudiant"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="4"/>
+        <CursorPos X="17" Y="14"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_accueil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_accueil"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="89"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_detail_etudiant"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="203"/>
+        <CursorPos X="61" Y="396"/>
+        <UsageCount Value="83"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="u_modele.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="27"/>
+        <CursorPos X="101" Y="42"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="u_notes_list.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_notes_list"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="51" Y="16"/>
+        <UsageCount Value="55"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="u_indispo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="f_indispo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="27" Y="12"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\TP3\tp_projet.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="4"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\TP4\u_liste.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="u_liste.pas"/>
+        <ComponentName Value="f_liste"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="191"/>
+        <CursorPos Y="221"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="u_loaddataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="260"/>
+        <CursorPos X="48" Y="383"/>
+        <UsageCount Value="18"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\Logiciels\Lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="567"/>
+        <CursorPos X="15" Y="612"/>
+        <UsageCount Value="6"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\Logiciels\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1814"/>
+        <CursorPos X="37" Y="1839"/>
+        <UsageCount Value="6"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\TP5\u_detail_infraction.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="239"/>
+        <CursorPos Y="287"/>
+        <UsageCount Value="6"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\TP9\u_modele.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="78" Y="47"/>
+        <UsageCount Value="7"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\Logiciels\Lazarus\components\ZEOSDBO-7.1.4-stable\ZEOSDBO-7.1.4-stable\src\dbc\ZDbcMySqlUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="408"/>
+        <CursorPos Y="433"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\TP8\u_modele.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <UsageCount Value="8"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\TP6\u_detail_infraction.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="121"/>
+        <UsageCount Value="8"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\Logiciels\Lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10305"/>
+        <CursorPos Y="10330"/>
+        <UsageCount Value="14"/>
+      </Unit21>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="25" Column="4"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="79" Column="58" TopLine="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="81" Column="56" TopLine="41"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="93" Column="26" TopLine="48"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="109" Column="34" TopLine="74"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_indispo.pas"/>
+        <Caret Line="13" Column="10"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_indispo.pas"/>
+        <Caret Line="17" Column="10"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_indispo.pas"/>
+        <Caret Line="35" Column="25"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_projet.pas"/>
+        <Caret Line="36" Column="56" TopLine="23"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_projet.pas"/>
+        <Caret Line="37" Column="15" TopLine="11"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="270" Column="43" TopLine="7"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="277" Column="42" TopLine="242"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="301" Column="12" TopLine="275"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="288" Column="64" TopLine="259"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="303" Column="31" TopLine="271"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="335" Column="71" TopLine="310"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="333" Column="25" TopLine="309"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="334" Column="70" TopLine="311"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="396" Column="2" TopLine="298"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="388" Column="89" TopLine="363"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_detail_etudiant.pas"/>
+        <Caret Line="384" Column="17" TopLine="362"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_modele.pas"/>
+        <Caret Line="103" Column="33" TopLine="75"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_liste.pas"/>
+        <Caret Line="138" Column="23" TopLine="102"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_liste.pas"/>
+        <Caret Line="139" Column="23" TopLine="103"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_list_etudiant.pas"/>
+        <Caret Line="30" Column="18"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_liste.pas"/>
+        <Caret Line="140" Column="23" TopLine="77"/>
+      </Position26>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

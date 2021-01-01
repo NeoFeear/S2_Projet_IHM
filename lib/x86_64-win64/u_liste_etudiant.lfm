@@ -1,0 +1,118 @@
+inherited f_list_etudiant: Tf_list_etudiant
+  Left = 1377
+  Height = 956
+  Top = 134
+  Width = 920
+  Caption = 'f_list_etudiant'
+  ClientHeight = 956
+  ClientWidth = 920
+  Color = clWhite
+  inherited pnl_titre: TPanel
+    Width = 920
+    Caption = 'Liste des inscrits'
+  end
+  inherited pnl_btn: TPanel
+    Top = 922
+    Width = 920
+    Caption = 'pnl_btn'
+    ClientWidth = 920
+    inherited pnl_btn_ligne: TPanel
+      Width = 521
+      ClientWidth = 521
+      inherited btn_line_detail: TSpeedButton
+        Left = 361
+        Hint = 'Détail de l''étudiant'
+        Width = 40
+        OnClick = btn_line_detailClick
+      end
+      inherited btn_line_add: TSpeedButton
+        Left = 401
+        Hint = 'Ajouter un étudiant'
+        Width = 40
+        OnClick = btn_line_addClick
+      end
+      inherited btn_line_delete: TSpeedButton
+        Left = 441
+        Hint = 'Supprimer un étudiant'
+        Width = 40
+        OnClick = btn_line_deleteClick
+      end
+      inherited btn_line_edit: TSpeedButton
+        Left = 481
+        Hint = 'Modifier la fiche'
+        OnClick = btn_line_editClick
+      end
+    end
+  end
+  inherited pnl_affi: TPanel
+    Height = 888
+    Width = 920
+    ClientHeight = 888
+    ClientWidth = 920
+    inherited sg_liste: TStringGrid
+      Height = 888
+      Width = 920
+      BorderStyle = bsNone
+      Columns = <      
+        item
+          PickList.Strings = (          )
+          Title.Color = 15461355
+          Title.Caption = 'N°'
+          Width = 100
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Genre'
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Identité'
+          Width = 225
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Commune domicile'
+          Width = 175
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = 'Filière'
+          Width = 100
+        end      
+        item
+          PickList.Strings = (          )
+          Title.Caption = ' '
+          Width = 150
+        end>
+      GridLineWidth = 1
+      Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goColSizing, goRowSelect]
+      RowCount = 5
+      ColWidths = (
+        100
+        64
+        225
+        175
+        100
+        150
+      )
+      RowHeights = (
+        22
+        22
+        22
+        22
+        22
+      )
+      Cells = (
+        0
+      )
+    end
+    object Label1: TLabel[1]
+      Left = 914
+      Height = 15
+      Top = 21
+      Width = 34
+      Caption = 'Label1'
+      ParentColor = False
+    end
+  end
+end

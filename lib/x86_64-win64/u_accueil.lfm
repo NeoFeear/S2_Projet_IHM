@@ -1,0 +1,68 @@
+object f_accueil: Tf_accueil
+  Left = 1369
+  Height = 720
+  Top = 242
+  Width = 920
+  Caption = 'f_accueil'
+  ClientHeight = 720
+  ClientWidth = 920
+  LCLVersion = '1.6.0.4'
+  object pnl_tout: TPanel
+    Left = 0
+    Height = 720
+    Top = 0
+    Width = 920
+    Align = alClient
+    ClientHeight = 720
+    ClientWidth = 920
+    TabOrder = 0
+    object lbl_bvn1: TLabel
+      Left = 296
+      Height = 74
+      Top = 144
+      Width = 325
+      Caption = 'Bienvenue'
+      Font.CharSet = ANSI_CHARSET
+      Font.Color = clBlue
+      Font.Height = -64
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      Font.Style = [fsBold, fsItalic]
+      ParentColor = False
+      ParentFont = False
+    end
+    object lbl_bvn2: TLabel
+      Left = 144
+      Height = 74
+      Top = 336
+      Width = 633
+      Caption = 'dans l''application de'
+      Font.CharSet = ANSI_CHARSET
+      Font.Color = clBlue
+      Font.Height = -64
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      Font.Style = [fsBold, fsItalic]
+      ParentColor = False
+      ParentFont = False
+    end
+    object lbl_bvn3: TLabel
+      Left = 120
+      Height = 74
+      Top = 504
+      Width = 684
+      Caption = 'gestion de la Scolarité'
+      Font.CharSet = ANSI_CHARSET
+      Font.Color = clBlue
+      Font.Height = -64
+      Font.Name = 'Arial'
+      Font.Pitch = fpVariable
+      Font.Quality = fqDraft
+      Font.Style = [fsBold, fsItalic]
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+end
